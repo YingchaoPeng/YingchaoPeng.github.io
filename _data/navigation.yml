@@ -10,7 +10,7 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: /files/Yingchao_Peng.pdf
+    url: /files/CV_Yingchao Peng.pdf
     
   - title: "Publications"
     url: /publications/
