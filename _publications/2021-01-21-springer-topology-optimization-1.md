@@ -1,7 +1,7 @@
 ---
 title: "Topology optimization of bi-material structures with frequency-domain objectives using time-domain simulation and sensitivity analysis"
 collection: publications
-permalink: /publication/2020-springer-topology-optimization
+permalink: /publication/2021-01-21-springer-topology-optimization-1
 excerpt: 'In this paper, we propose to use time-domain transient analysis to compute the response of structures in a wide frequency
 band by means of Fourier transform. A time-domain adjoint variable method is then developed to carry out the sensitivity
 analysis of frequency-domain objective functions. By using the concept of frequency response function, it turns out that both
