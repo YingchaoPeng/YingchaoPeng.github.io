@@ -1,6 +1,7 @@
 ---
 title: "Programming bistability in geometrically perturbed mechanical metamaterials"
-excerpt: "Design exploration<br/><img src='/images/Design-exploration.png' style='width:800px;'><hr/>Heterogeneous designs<br/><img src='/images/Heter.png' style='width:800px;'>"
+excerpt: "Design exploration<br/><img src='/images/Design-exploration.png' style='width:800px;'>
+<br/>Heterogeneous designs<br/><img src='/images/Heter.png' style='width:800px;'>"
 collection: portfolio
 ---
 
