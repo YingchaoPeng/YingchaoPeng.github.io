@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![beatheart](/images/beatheart.gif){: .align-right width="100px"}
+![beatheart](/images/beatheart_v2.gif){: .align-right width="150px"}
 🏃 I'm a Ph.D. student in [Professor Paul Plucinsky's group](https://sites.usc.edu/plucinsky/) at the University of Southern California. 
 
 🚀 My research focuses on mechanical metamaterials, solid mechanics, kirigami/origami design, and topology optimization. I think about how to cut, fold, and optimize materials to make them behave in ways Mother Nature never intended ❤️. 
