@@ -1,6 +1,7 @@
 ---
 title: "Programming bistability in geometrically perturbed mechanical metamaterials"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-aps-mechanical-metamaterials
 excerpt: ''
 date: 2024-07-29
