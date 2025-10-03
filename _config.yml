@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yingchao'sss Homepage"
+title                    : "Yingchao's Homepage"
 title_separator          : "-"
 name                     : &name "Yingchao Peng"
 description              : &description "personal description"
