@@ -13,9 +13,7 @@ sensitivity analysis extremely efficient. An obvious distinction between the pro
 domain methods is that in our method, the frequency response curves in a wide band can be obtained in each iteration
 with no extra costs. It follows that it is easy to track the evolution of the frequency response curve in our method, which is
 essential in both computational and engineering sense. Several numerical examples are tested to show the effectiveness of
-the proposed method.
-
-"Design exploration<br/><img src='/images/Design-exploration.png' style='width:800px;'>
+the proposed method."Design exploration<br/><img src='/images/Design-exploration.png' style='width:800px;'>
 <br/>Heterogeneous designs<br/><img src='/images/Heter.png' style='width:800px;'>"
 '
 date: 2021-01-21
