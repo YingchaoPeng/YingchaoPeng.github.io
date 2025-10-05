@@ -22,7 +22,7 @@ This paper describes a strategy that takes a common (non-bistable) metamaterial 
 
 ---
 ### Figures
-
+**
 <img src="/images/poster.png" alt="Design exploration" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
 
