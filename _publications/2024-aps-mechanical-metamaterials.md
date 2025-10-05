@@ -22,16 +22,9 @@ This paper describes a strategy that takes a common (non-bistable) metamaterial 
 ---
 
 
-<img src="/images/Design-exploration.png" alt="Design exploration" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+<img src="/images/poster.png" alt="Design exploration" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
 
-### Figures
-
-**Design exploration**  
-<img src="/images/Design-exploration.png" alt="Design exploration" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
-
-**Heterogeneous designs**  
-<img src="/images/Heter.png" alt="Heterogeneous designs" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
 ---
 
