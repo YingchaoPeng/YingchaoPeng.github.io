@@ -17,15 +17,17 @@ paperurl: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22
 citation: "Peng, Yingchao, Imtiar Niloy, Megan Kam, Paolo Celli, and Paul Plucinsky. 'Programming bistability in geometrically perturbed mechanical metamaterials.' Physical Review Applied 22, no. 1 (2024): 014073."
 ---
 
-
 This paper describes a strategy that takes a common (non-bistable) metamaterial design and transforms it into a bistable one, specifically, by allowing for irregular patterns through geometric perturbations of the unit cell and by leveraging the intercell constraints inherent to the large deformation response of metamaterials.
 
 ---
+
 ### Figures
-** **
+
+**Design exploration**  
 <img src="/images/poster.png" alt="Design exploration" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
-
+**Heterogeneous designs**  
+<img src="/images/Heter.png" alt="Heterogeneous designs" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
 ---
 
