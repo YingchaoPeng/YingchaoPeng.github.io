@@ -7,7 +7,7 @@ excerpt: |
   This paper describes a strategy that takes a common (non-bistable) metamaterial design and transforms it into a bistable one, specifically, by allowing for irregular patterns through geometric perturbations of the unit cell and by leveraging the intercell constraints inherent to the large deformation response of metamaterials.
   <br/><br/>
   **Design exploration**<br/>
-  <img src='/images/Design-exploration.png' style='width:800px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);'>
+  <img src='/images/poster.png' style='width:800px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);'>
   <br/><br/>
   **Heterogeneous designs**<br/>
   <img src='/images/Heter.png' style='width:800px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);'>
