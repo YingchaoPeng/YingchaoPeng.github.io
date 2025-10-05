@@ -9,8 +9,6 @@ excerpt: |
   **Design exploration**<br/>
   <img src='/images/poster.png' style='width:800px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);'>
   <br/><br/>
-  **Heterogeneous designs**<br/>
-  <img src='/images/Heter.png' style='width:800px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);'>
 date: 2024-07-29
 venue: "Physical Review Applied"
 paperurl: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.014073"
