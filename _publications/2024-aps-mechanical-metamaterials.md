@@ -23,11 +23,6 @@ This paper describes a strategy that takes a common (non-bistable) metamaterial 
 **Representative examples**  
 <img src="/images/Fig_Representative.png" alt="Representative examples" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
-**Design exploration**  
-<img src="/images/Fig_Explore.png" alt="Exploration of design spaces" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
-
-**Heterogeneous designs**  
-<img src="/images/Heter.png" alt="Heterogeneous designs" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
 ### Videos
 <video width="800" controls style="border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
@@ -35,6 +30,11 @@ This paper describes a strategy that takes a common (non-bistable) metamaterial 
   Your browser does not support the video tag.
 </video>
 
+**Design exploration**  
+<img src="/images/Fig_Explore.png" alt="Exploration of design spaces" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+
+**Heterogeneous designs**  
+<img src="/images/Heter.png" alt="Heterogeneous designs" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
 ---
 
