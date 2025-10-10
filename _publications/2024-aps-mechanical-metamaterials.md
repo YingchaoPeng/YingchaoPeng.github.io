@@ -6,7 +6,6 @@ permalink: /publication/2024-aps-mechanical-metamaterials
 excerpt: |
   This paper describes a strategy that takes a common (non-bistable) metamaterial design and transforms it into a bistable one, specifically, by allowing for irregular patterns through geometric perturbations of the unit cell and by leveraging the intercell constraints inherent to the large deformation response of metamaterials.
   <br/><br/>
-  **Design exploration**<br/>
   <img src='/images/poster.png' style='width:800px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);'>
   <br/><br/>
 date: 2024-07-29
