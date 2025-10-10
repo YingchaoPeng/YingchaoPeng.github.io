@@ -4,7 +4,7 @@ collection: teaching
 type: "SHINE (Summer High School Intensive in Next-Gen Engineering) program"
 permalink: /teaching/2022-summer-mentorship-1
 venue: "University of Southern California, Department of Aerospace and Mechanical Engineering"
-date: 2022-06
+date: 2022-06-01
 location: "Los Angeles, CA"
 ---
 
