@@ -18,13 +18,10 @@ This paper describes a strategy that takes a common (non-bistable) metamaterial 
 
 ---
 
-### Figures
 
 **Representative examples**  
 <img src="/images/Fig_Representative.png" alt="Representative examples" style="width:800px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
-
-### Videos
 <video width="800" controls style="border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
   <source src="/images/RepExample_web.mp4" type="video/mp4">
   Your browser does not support the video tag.
